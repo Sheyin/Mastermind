@@ -9,14 +9,14 @@ Known Bugs: You can enter multiple colors on a peg line, but it will not prompt 
 Usage: /java Mastermind
 
 Gameplay/Rules: (these are also printed when you run the program)
-1. The program randomly selects four colors.  Duplicate colors are allowed.
-2. You select four colors.
-3. The program provides feedback to help you narrow down your guesses.
+<br \>1. The program randomly selects four colors.  Duplicate colors are allowed.
+<br \>2. You select four colors.
+<br \>3. The program provides feedback to help you narrow down your guesses.
   - black peg: right color, right position
   - white peg: right color, wrong position
   - no peg: wrong color, wrong position
   - white/black peg order does not correspond to the order of your guesses.
-  - no feedback is given on duplicates unless you also enter a duplicate color.
-4. If your guess matches the hidden code, you win!
+  - no feedback is given on duplicates unless you also enter a duplicate color.</ol>
+<br \>4. If your guess matches the hidden code, you win!
 
 Special thanks goes out to my beta testers (my little nephews).
